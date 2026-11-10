@@ -6,13 +6,13 @@ main_nav:
     url: "#organization"
 ---
 
-![VisLies 2022!](VisLiesLogo2022.png)
+![VisLies 2026!](VisLiesLogo2026.png)
 
-# VisLies 2022
+# VisLies 2026
 
 <!--
 **Tuesday October 18** 12:30 – 2:00 PM  
-Held in conjunction with IEEE VIS 2022  
+Held in conjunction with IEEE VIS 2026  
 Omni Oklahoma City Hotel, ~~Five Moons 6 Room~~ Oklahoma Station 1
 -->
 
@@ -73,13 +73,13 @@ There are lots of great reasons to present at VisLies.
 ### Submission
 
 Becoming part of VisLies is easy. Simply send an email to
-<a href="mailto:vislies2022@vislies.org">vislies2022@vislies.org</a> with
+<a href="mailto:vislies2026@vislies.org">vislies2026@vislies.org</a> with
 your name and a note that you want to present. That's it.
 
 ## Organization
 
 Questions? Contact us at
-<a href="mailto:vislies2022@vislies.org">vislies2022@vislies.org</a>.
+<a href="mailto:vislies2026@vislies.org">vislies2026@vislies.org</a>.
 
 
 |                              |                                  |
