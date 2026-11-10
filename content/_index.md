@@ -82,10 +82,10 @@ Questions? Contact us at
 <a href="mailto:vislies2026@vislies.org">vislies2026@vislies.org</a>.
 
 
-|                              |                                  |
-|------------------------------|----------------------------------|
-| ![Kenneth Moreland](ken.jpg) | ![Bernice Rogowitz](bernice.jpg) |
-| [Kenneth Moreland]           | [Bernice Rogowitz]               |
+|                                  |                              |
+|----------------------------------|------------------------------|
+| ![Bernice Rogowitz](bernice-edited.jpg) | ![Ken Moreland](ken-edited.jpg) |
+| [Bernice Rogowitz]               | [Ken Moreland]           |
 
-[Kenneth Moreland]: https://www.kennethmoreland.com
+[Ken Moreland]: https://www.kennethmoreland.com
 [Bernice Rogowitz]: https://sites.google.com/site/bernicerogowitz/
