@@ -10,11 +10,9 @@ main_nav:
 
 # VisLies 2026
 
-<!--
-**Tuesday October 18** 12:30 – 2:00 PM  
+**Wednesday November 11** 11:30 – 12:30  
 Held in conjunction with IEEE VIS 2026  
-Omni Oklahoma City Hotel, ~~Five Moons 6 Room~~ Oklahoma Station 1
--->
+Westin Copley Place Boston, America Center
 
 This fun and engaging event showcases examples of egregious perceptual,
 cognitive, and conceptual errors in visualization, presented by members of
